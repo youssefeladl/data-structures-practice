@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\materials\Data structure\DATA STRUCTRE PROJECTS\STACK AS LINKEDLIST\STACK AS LINKEDLIST\Source.cpp(29): warning C4715: 'pop': not all control paths return a value
+D:\materials\Data structure\DATA STRUCTRE PROJECTS\STACK AS LINKEDLIST\STACK AS LINKEDLIST\Source.cpp(56): warning C4715: 'peak': not all control paths return a value
+  STACK AS LINKEDLIST.vcxproj -> D:\materials\Data structure\DATA STRUCTRE PROJECTS\STACK AS LINKEDLIST\x64\Debug\STACK AS LINKEDLIST.exe

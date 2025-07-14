@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\visual studio projects\DATA STRUCTRE (STACK BY CLAAS)\DATA STRUCTRE (STACK BY CLAAS)\Source.cpp(47): warning C4715: 'stack::pop': not all control paths return a value
+  DATA STRUCTRE (STACK BY CLAAS).vcxproj -> D:\visual studio projects\DATA STRUCTRE (STACK BY CLAAS)\x64\Debug\DATA STRUCTRE (STACK BY CLAAS).exe
